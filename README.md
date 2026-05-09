@@ -7,9 +7,9 @@ This repository consists following:
 - **PCB Routing**: The connections and pathways for signals and power on the PCB.
 - **3D Model**: 3D Model of the design after routing and placement of all components.
 
-### Tools Used
+### Tool Used
 
-The project was developed using an open-source EDA software,** KiCad version KiCad 9.0.7**
+The project was developed using an open-source EDA software, **KiCad** version **KiCad 9.0.7**
 
 #### The footprints of all Resistors, Capacitors and Diodes:
 `0603_1608Metric_Pad1.08x0.95mm_HandSolder`
