@@ -28,3 +28,10 @@ The project was developed using an open-source EDA software,** KiCad version KiC
 ## 3D Model
 
 ![3D Model](https://raw.githubusercontent.com/aniketvats325/HDMI-Switcher-Design/c54c293d5cd29b73bb1cfbb8fcd33d0a225731ce/Project%20HDMI%20Switcher/Images/3D%20Model.png)
+
+## Board Dimensions
+
+| Parameter | Value    |
+|-----------|----------|
+| Width     | 85.81 mm |
+| Height    | 62.62 mm |
