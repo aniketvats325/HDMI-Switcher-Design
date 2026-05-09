@@ -13,3 +13,6 @@ The project was developed using an open-source EDA software,** KiCad version KiC
 
 #### The footprints of all Resistors, Capacitors and Diodes:
 `0603_1608Metric_Pad1.08x0.95mm_HandSolder`
+
+## Root Schematic
+
