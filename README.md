@@ -15,4 +15,5 @@ The project was developed using an open-source EDA software,** KiCad version KiC
 `0603_1608Metric_Pad1.08x0.95mm_HandSolder`
 
 ## Root Schematic
+![Root Schematic](![Schematic](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/Root%20Schematic.png))
 
