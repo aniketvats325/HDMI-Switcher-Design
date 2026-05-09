@@ -16,3 +16,7 @@ The project was developed using an open-source EDA software,** KiCad version KiC
 
 ## Root Schematic
 ![Root Schematic](https://raw.githubusercontent.com/aniketvats325/HDMI-Switcher-Design/e28db118553d930ee5dd663304a58aec60df6bb6/Project%20HDMI%20Switcher/Images/Root%20Schematic.png)
+
+
+## PCB Layout
+![PCB Layout](https://raw.githubusercontent.com/aniketvats325/HDMI-Switcher-Design/cb6e8c100e9de31e550a867d7b3348dbeacd80ad/Project%20HDMI%20Switcher/Images/Layout.png)
